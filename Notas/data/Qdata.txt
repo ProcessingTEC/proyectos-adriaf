@@ -1,0 +1,12 @@
+Jose Carvajal, 100
+Jose Castro, 95
+Ruth Rodríguez, 90
+Maria Aguilar, 85
+Juan Perez, 80
+Alex Valverde, 70
+Alicia Castro, 75
+Maria Jose Altea,50
+Pablo Porras, 40
+Siul Alba, 25
+Mauricio Aviles, 20
+Luis Guillermo Solis,0
